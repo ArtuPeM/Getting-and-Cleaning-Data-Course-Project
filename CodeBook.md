@@ -17,6 +17,7 @@ The first two variables are the id subject and the activities tested in the orig
 
 ### Measurements
 For each activity and subject were measured a wide variety of features. In this case it was extracted just the variables which give us information about the mean and standar deviation.
+**t** is for time **f** is for frequency
 
 "tBodyAccmeanX" 
 
